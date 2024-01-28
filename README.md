@@ -7,7 +7,10 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalvadorNET&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
-## Experiente em:
+## Skills 🔥
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 #### Linguagens
 
 <div style="display: inline_block"><br>
@@ -20,7 +23,7 @@
                                     
 </div>
 
-#### Design
+#### Ferramentas
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
