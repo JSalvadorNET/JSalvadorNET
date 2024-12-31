@@ -94,17 +94,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&https://github.com/JSalvadorNET/)](LINK-DO-SEU-GITHUB)
 
-Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 💘
-
- <div>
-   <a href="https://github.com/JSalvadorNET">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSalvadorNET&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalvadorNET&layout=compact&langs_count=6&theme=shadow_red"/>
-</div>
-
-
-
-
-
-
+_Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 💘_
 
