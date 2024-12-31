@@ -15,7 +15,7 @@
   <br>
 -  🤔 Currently exploring security tools.
 - 🎓 Studying Design at UERJ (State University of Rio de Janeiro).
-- 🌱 earning more about cybersecurity and forensics.
+- 🌱 Learning more about cybersecurity and forensics.
 - 🔥 I'm also a fullstack dev!
 - 📌 Rio de Janeiro, Brazil.
 
