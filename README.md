@@ -98,8 +98,8 @@ Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 💘
 
  <div>
    <a href="https://github.com/JSalvadorNET">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSalvadorNET&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalvadorNET&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSalvadorNET&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSalvadorNET&layout=compact&langs_count=6&theme=shadow_red"/>
 </div>
 
 
