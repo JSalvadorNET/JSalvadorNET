@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 # Olá mundo! ✨
 
 <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="800" />
