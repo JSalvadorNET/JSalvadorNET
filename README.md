@@ -1,19 +1,27 @@
-# Olá mundo! ✨
+# Hello world! ✨
 
 <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="800" />
 
 
-## Sobre mim
+## Sobre mim | About me
 
 - 🤔 Atualmente explorando ferramentas de segurança.
-- 🎓 Estudando Design na ESDI | UERJ.
+- 🎓 Estudando Design na UERJ.
 - 🌱 Aprendendo mais sobre cybersecurity e forense.
 - 🔥 Também sou dev fullstack!
-- 📌 RJ, Brasil.
+- 📌 Rio de Janeiro, Brasil.
+  <br>
+...
+  <br>
+-  🤔 Currently exploring security tools.
+- 🎓 Studying Design at UERJ (State University of Rio de Janeiro).
+- 🌱 earning more about cybersecurity and forensics.
+- 🔥 I'm also a fullstack dev!
+- 📌 Rio de Janeiro, Brazil.
 
-## Minhas Skills
+## Skills
 
-**🖥 Linguagens**
+**🖥 Linguagens | Programming languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -25,7 +33,7 @@
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-**🔗 Utilidades**
+**🔗 Utilidades | Utilities**
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -38,7 +46,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-**☁️ Dados e Nuvem**
+**☁️ Dados e Nuvem | Data and Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRE](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
@@ -48,7 +56,7 @@
 )
 ![IBMC](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
-**📚 Frameworks e Bibliotecas**
+**📚 Frameworks**
 
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -64,7 +72,7 @@
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 
 
-**🛠 Ferramentas de desenvolvimento**
+**🛠 Ferramentas de desenvolvimento | Development Tools**
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -75,7 +83,7 @@
 ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white)
 
-**🔐 Especialização (cybersecurity e ethical hacking)**
+**🔐 Cybersecurity + Ethical hacking**
 
 ![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![hackthebox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
@@ -85,11 +93,15 @@
 ![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 
-## 📩 Onde me encontrar
+## 📩 Onde me encontrar | Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/julyana-salvador-3a68852b6/)](LINK-DO-SEU-LINKEDIN)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&https://github.com/JSalvadorNET/)](LINK-DO-SEU-GITHUB)
 
 _Obrigado por visitar meu perfil! Fique à vontade para entrar em contato. 💘_
+<br>
+...
+<br>
+_Thank you for visiting my profile! Feel free to send a message. 💘_
 
