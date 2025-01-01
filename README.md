@@ -1,6 +1,6 @@
 # Hello world! ✨
 
-<img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="800" />
+<img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" width="700" />
 
 
 ## Sobre mim | About me
