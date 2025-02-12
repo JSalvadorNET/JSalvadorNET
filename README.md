@@ -97,7 +97,7 @@
 
 ## 📩 Onde me encontrar | Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/julyana-salvador-3a68852b6/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/julyana-salvador-3a68852b6/)](https://www.linkedin.com/in/julyana-salvador-3a68852b6/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&https://github.com/JSalvadorNET/)](https://github.com/JSalvadorNET/)
 
